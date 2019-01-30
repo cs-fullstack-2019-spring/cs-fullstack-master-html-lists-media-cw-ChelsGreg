@@ -1,0 +1,30 @@
+h1{
+    display: block;
+    border: 6px solid blue;
+    text-align: center;
+    margin: 0 24.5% 24px 24.5%;
+    padding: 24px 15px;
+}
+
+
+h2{
+    font-size: x-large;
+
+}
+
+ol{
+    list-style: disc;
+}
+
+ul{
+    list-style: decimal;
+}
+
+.listNone{
+    list-style: none;
+}
+
+.listDecimals{
+    list-style: decimals;
+
+}
