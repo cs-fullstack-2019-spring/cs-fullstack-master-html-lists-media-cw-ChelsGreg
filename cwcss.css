@@ -28,3 +28,12 @@ ul{
     list-style: decimals;
 
 }
+
+
+#emli {
+    font-style: italic;
+}
+
+#emstr {
+    font-weight: bold;
+}

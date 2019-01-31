@@ -1,3 +1,7 @@
+### 1 POINTS
+### KEY: Not bad, but no inline styles in HTML. 
+### Close on 2nd exercise. Just needed to add some padding to list and not skew BDog image
+
 # HTML Lists/Media Graded Class Work
 
 ### Exercise 1:
